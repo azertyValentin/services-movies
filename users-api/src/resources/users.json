@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name":"Jean",
+        "email": "jean@gmail.com",
+        "age": 19,
+        "playlists": [
+            {
+                "id": 1,
+                "name" : "goodVibes"
+            },
+            {
+                "id": 2,
+                "name" : "Rap"
+            }
+        ],
+        "suggestions": [
+            {
+                "id": 1,
+                "name": "Interstellar"
+            },
+            {
+                "id": 2,
+                "name": "HP"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name":"Denise",
+        "email": "denise@gmail.com",
+        "age": 23,
+        "playlists": [
+            {
+                "id": 1,
+                "name" : "goodVibes"
+            },
+            {
+                "id": 3,
+                "name" : "Hits"
+            }
+        ],
+        "suggestions": [
+            {
+                "id": 1,
+                "name": "Interstellar"
+            },
+            {
+                "id": 3,
+                "name": "Fight club"
+            }
+        ]
+    }
+]
